@@ -1,0 +1,5 @@
+cs9053chatclient.ChatWindow
+cs9053chatclient.ChatWindow$PressListener
+cs9053chatclient.ChatWindow$2
+cs9053chatclient.ChatWindow$1
+cs9053chatclient.chatClient
